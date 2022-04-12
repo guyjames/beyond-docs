@@ -1,11 +1,13 @@
-# Obsidian Notes
+# Beyond Docs
 
-Publish your public notes with MkDocs
+## You have reached Beyond...
 
-## Hello World!
+The DAO can be found [here](https://app.daohaus.club/dao/0x64/0x485afaf2ffdb2a32a543b19e6fe3f34d078337ad)
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+The Discord is [here](https://discord.gg/w85Hdf8FNA)
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+The instructions for onboarding to the DAO are [here](https://wildcat.nohost.me//hedgedoc/bDMz50PoQjiDI6Inm-bjpQ?view)
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+[This is a thread](https://wegobeyond.xyz/discourse/t/library-of-ideas-for-the-dao/12) of past ideas for the DAO - core team only right now.
+
+We will be adding content as we go.
