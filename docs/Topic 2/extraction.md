@@ -1,0 +1,1 @@
+Just right when they seem to have succeeded is exactly when they fail. The grip of control comes from internal insecurity. Most likely CCP factional party power struggles happening right now.
