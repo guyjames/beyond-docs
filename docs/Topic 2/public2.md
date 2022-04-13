@@ -1,5 +1,5 @@
 this is another file that I want to make public!
-[[Note 1]]
+[[NEW DRAFT OF DECLARATION by Daniel Pinchbeck]]
 
 [[Note 2]]
 
